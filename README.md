@@ -1,4 +1,4 @@
-# Human Health Monitor
+Human Health Monitor
 
 An AI-enabled Human Health Monitor using Arduino, health sensors, Machine Learning, Gemini, and a Single Tool AI Agent.
 
